@@ -1,7 +1,7 @@
-//FATIMA ISMAIL
-//TLY20CS028
+
+
 //PROGRAM TO ADD TWO POLYNOMIALS
-//23/11/21
+
 
 #include<stdio.h>
 struct poly
